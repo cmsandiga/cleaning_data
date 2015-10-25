@@ -32,13 +32,3 @@ mean_std_data <- select(merge(mean_std_data, activity_names,by.x= "activity_id",
 # second tidy_data
 group_by_data <- group_by(mean_std_data, student_id, activity_name)
 summarize_dataset <- summarize_each(group_by_data, funs(mean))
-
-
-
-
-
-
-
-
-
-
