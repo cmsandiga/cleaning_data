@@ -130,5 +130,6 @@ FFT -> Fast Fourier Transform
 
 
 ##References
-Fast Fourier Transform -> https://es.wikipedia.org/wiki/Transformada_r%C3%A1pida_de_Fourier
-Datasets -> http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+- Fast Fourier Transform -> https://es.wikipedia.org/wiki/Transformada_r%C3%A1pida_de_Fourier
+- Information about datasets -> http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+- Dataset -> https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
