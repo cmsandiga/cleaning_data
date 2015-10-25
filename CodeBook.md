@@ -2,7 +2,7 @@
 Cleaning Human Activity Recognition Using Smartphones 
 
 ##Variables from dataset generated
-1. student_id -> subject number
+1. student_id -> subject id that was analyzed
 2. tbodyacc_mean_x -> time body acceleration mean x-axis
 3. tbodyacc_mean_y -> time body acceleration mean y-axis
 4. tbodyacc_mean_z -> time body acceleration mean z-axis
