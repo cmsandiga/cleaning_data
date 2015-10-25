@@ -122,11 +122,11 @@ Note all transformation is conteined in run_analysis.R in this repository
 
 
 ## Abreviation
-acc  -> acceleration
-std  -> standard desviation
-freq -> frequency
-gyro -> gyroscope
-FFT -> Fast Fourier Transform
+- acc  -> acceleration
+- std  -> standard desviation
+- freq -> frequency
+- gyro -> gyroscope
+- FFT -> Fast Fourier Transform
 
 
 ##References
